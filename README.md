@@ -74,7 +74,7 @@ This project is a Telegram bot for generating QR codes with the ability to add a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the 99bruno License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 
