@@ -57,7 +57,7 @@ This project is a Telegram bot for generating QR codes with the ability to add a
 
 1. Run the bot:
     ```sh
-    python bot.py
+    python main.py
     ```
 2. Open the bot on Telegram and send the command **`/start`** to start the bot.
 3. Enjoy the easy creation of qr codes with the bot.
